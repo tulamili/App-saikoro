@@ -1,0 +1,10 @@
+
+This module provides a Unix-like command `saikoro'. 
+Saikoro is a Japanese traditioal dice which randomly yields the number 1,2,3,4,5,6.
+This `saikoro` produces many type of uniform random numbers also with multiple columns. 
+
+=head1 DESCRIPTION
+
+ Copyright (c) 2021 Toshiyuki SHIMONO. All rights reserved.
+ This program is free software; you can redistribute it and/or
+ modify it under the same terms as Perl itself.
